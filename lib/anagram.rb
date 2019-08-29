@@ -6,5 +6,6 @@ class Anagram
 
   def match (string)
     array = string.split(" ")
+    array
   end
 end
